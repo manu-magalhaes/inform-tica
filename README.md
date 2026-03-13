@@ -11,3 +11,5 @@ https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content
 ## Atividade no excel realizada dia 12/03/2026 (tabela)
 
 <img width="887" height="437" alt="image" src="https://github.com/user-attachments/assets/64afadad-9604-43d2-9c9a-da808c7738bf" />
+
+## Atividade no excel realizada dia 13/03/2026 (tabela)
