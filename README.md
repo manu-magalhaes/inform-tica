@@ -19,6 +19,19 @@ Reforço da aula do dia 12/03 de criação de gráficos baseado em dados abertos
 ## Atividade no excel realizada dia 09/04/2026 - multas (tabela)
 Articulação de tabela e montagem do gráfico baseado em dados abertos de São Paulo
 <img width="961" height="319" alt="image" src="https://github.com/user-attachments/assets/7b76d566-6796-4c55-814a-b523acd25378" />
+## Fornecedores de São Paulo e perguntas - 10/04 a 15/04
+Pesquisar dados abertos de São Paulo e elaborar 5 perguntas 
+Pergunta 1
+<img width="522" height="40" alt="image" src="https://github.com/user-attachments/assets/2cc578c3-a707-40a8-85e5-24c6aae5b59c" />
+Pergunta 2
+<img width="336" height="37" alt="image" src="https://github.com/user-attachments/assets/7f50db69-24ca-4bdd-881f-18936f2380bd" />
+Pergunta 3
+<img width="304" height="262" alt="image" src="https://github.com/user-attachments/assets/125d312d-2b17-4adb-b345-3ae109215e40" />
+Pergunta 4
+<img width="408" height="338" alt="image" src="https://github.com/user-attachments/assets/ecefdea7-d407-4976-8132-d3a641ae9876" />
+Pergunta 5
+<img width="480" height="77" alt="image" src="https://github.com/user-attachments/assets/456a96d0-3d30-4d5b-89e5-60354637fc5a" />
+
 ## Comprovação de conclusão do curso
 Certificado de conclusão do curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais" - 16/04
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf](https://github.com/user-attachments/files/26840917/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf)
