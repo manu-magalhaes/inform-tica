@@ -19,3 +19,6 @@ Reforço da aula do dia 12/03 de criação de gráficos baseado em dados abertos
 ## Atividade no excel realizada dia 09/04/2026 - multas (tabela)
 Articulação de tabela e montagem do gráfico baseado em dados abertos de São Paulo
 <img width="961" height="319" alt="image" src="https://github.com/user-attachments/assets/7b76d566-6796-4c55-814a-b523acd25378" />
+## Comprovação de conclusão do curso
+Certificado de conclusão do curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais" - 17/04
+<img width="396" height="261" alt="image" src="https://github.com/user-attachments/assets/3d613c99-652e-4404-9054-8453cc00d4f2" />
