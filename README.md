@@ -22,5 +22,4 @@ Articulação de tabela e montagem do gráfico baseado em dados abertos de São 
 ## Comprovação de conclusão do curso
 Certificado de conclusão do curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais" - 16/04
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf](https://github.com/user-attachments/files/26840917/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf)
-
-
+<img width="897" height="614" alt="image" src="https://github.com/user-attachments/assets/3c1d09e1-5dae-463a-9ec0-cf550f86aa1f" />
