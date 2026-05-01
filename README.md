@@ -36,3 +36,8 @@ Pergunta 5
 Certificado de conclusão do curso "Criando Trabalhos Acadêmicos com Ferramentas Digitais" - 16/04
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf](https://github.com/user-attachments/files/26840917/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4032589.pdf)
 <img width="897" height="614" alt="image" src="https://github.com/user-attachments/assets/3c1d09e1-5dae-463a-9ec0-cf550f86aa1f" />
+
+## Aula de PowerBI DIA 30/04
+Usando dados abertos de São Paulo para criar três visuais da tabela através do PowerBI (População indígena por sexo e faixa etária - 2022)
+<img width="1305" height="736" alt="image" src="https://github.com/user-attachments/assets/8be41c0f-cb94-419c-89d5-64d66e4d7a70" />
+<img width="1304" height="731" alt="image" src="https://github.com/user-attachments/assets/8bdd49b7-341a-45a6-88ad-88d1bd46b1b9" />
