@@ -44,3 +44,6 @@ Usando dados abertos de São Paulo para criar três visuais da tabela através d
 ## Aula sobre PowerBI - 07/05
 Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre dados abertos de São Paulo
 <img width="1253" height="608" alt="image" src="https://github.com/user-attachments/assets/ba89f961-dfcc-4ca7-8712-85027fcd9f43" />
+## Atividade do PowerBI feita em sala de aula - 22/05
+Criação de um Dashboard sobre venda de cerveja e sorvete, utilizando os conhecimentos adquiridos ao longo do semestre
+<img width="1309" height="736" alt="image" src="https://github.com/user-attachments/assets/54260046-6e89-4840-80de-429ac298aec7" />
