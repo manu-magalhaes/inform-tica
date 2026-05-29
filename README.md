@@ -47,7 +47,7 @@ Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre da
 ## Atividade do PowerBI feita em sala de aula - 22/05
 Criação de um Dashboard sobre venda de cerveja e sorvete, utilizando os conhecimentos adquiridos ao longo do semestre
 <img width="1309" height="736" alt="image" src="https://github.com/user-attachments/assets/54260046-6e89-4840-80de-429ac298aec7" />
-## Visualização dos gráficos no PowerBI realizados na prova
+## Visualização dos gráficos no PowerBI realizados na prova - 28/05
 <img width="1309" height="371" alt="image" src="https://github.com/user-attachments/assets/8e1a87c0-aa43-4481-821e-e25a514c02f3" />
 <img width="662" height="368" alt="image" src="https://github.com/user-attachments/assets/e156b6c2-18ed-4d39-80d5-82a657de8545" />
 <img width="650" height="363" alt="image" src="https://github.com/user-attachments/assets/865711a2-3293-4a72-b0f0-8f4d95711dc4" />
