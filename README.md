@@ -41,6 +41,8 @@ Certificado de conclusão do curso "Criando Trabalhos Acadêmicos com Ferramenta
 Usando dados abertos de São Paulo para criar três visuais da tabela através do PowerBI (População indígena por sexo e faixa etária - 2022)
 <img width="1305" height="736" alt="image" src="https://github.com/user-attachments/assets/8be41c0f-cb94-419c-89d5-64d66e4d7a70" />
 <img width="1304" height="731" alt="image" src="https://github.com/user-attachments/assets/8bdd49b7-341a-45a6-88ad-88d1bd46b1b9" />
+<img width="1309" height="743" alt="image" src="https://github.com/user-attachments/assets/4e6d416e-e3a1-4972-b6dc-ddab0adab3eb" />
+
 ## Aula sobre PowerBI - 07/05
 Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre dados abertos de São Paulo
 <img width="1253" height="608" alt="image" src="https://github.com/user-attachments/assets/ba89f961-dfcc-4ca7-8712-85027fcd9f43" />
